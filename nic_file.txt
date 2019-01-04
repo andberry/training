@@ -6,4 +6,6 @@ berry added line
 
 berry added second line
 
+to be fetched from berry
+
 berry added third line
